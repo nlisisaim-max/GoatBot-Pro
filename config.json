@@ -13,7 +13,7 @@
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
   "nickNameBot": "shtot ᯓᡣ𐭩",
-  "prefix": "-",
+  "prefix": "kssi",
   "enableTypingIndicator": true,
   "notesTypingIndicator": "true = show 'is typing...' for the humanizer delay before replying | false = reply instantly, no typing shown",
   "humanizer": {
@@ -36,7 +36,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61595147641130",
+    "61595824679574",
     " ",
     " "
   ],
